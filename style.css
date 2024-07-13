@@ -82,6 +82,11 @@ transition: margin-left .5s;
   box-sizing: border-box;
 }
 
+.con{
+  background-color: #ada1a1;
+  padding:2px;
+}
+
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
